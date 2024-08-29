@@ -1,0 +1,2 @@
+GET https://aufind.au.dk/web/xmltojson.php?lang=1&overlays=0,1,3,4,7,8,9,11,15,bus
+GET https://aufind.au.dk/searchDepartments.php?mode=json&q=eb764578-d02c-4e23-b446-5a7d5d96fda0
