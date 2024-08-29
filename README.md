@@ -15,7 +15,7 @@
 
 1. Grab your icalKey from https://mitstudie.au.dk ![icalKey image](https://imgur.com/o7xToCZ)
 
-2. Go to your calendar and create a subscription calendar with the following link https://au.omikkel.com/calendar?icalKey=\<Your key>
+2. Go to your calendar and create a subscription calendar with the following link https://au.omikkel.com/calendar?icalKey=[Your key]
 
 
 ## Additional Features
@@ -24,7 +24,7 @@
 
 If you want to colorcode lectures seperately from study cafe events you should use one of the following endpoints below instead.
 
-https://au.omikkel.com/calendar/\<endpoint>
+https://au.omikkel.com/calendar/[endpoint]
 
 | Endpoint | Description |
 |----------|-------------|
