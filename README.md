@@ -8,12 +8,12 @@
 
 - Updates the notes with location and building number in case the location property should fail
 
-- Only needs your icalKey from https://mitstudie.au.dk ![icalKey image](https://imgur.com/o7xToCZ)
+- Only needs your icalKey from https://mitstudie.au.dk ![icalKey image](https://i.imgur.com/o7xToCZ.png)
 
 
 ## Guide
 
-1. Grab your icalKey from https://mitstudie.au.dk ![icalKey image](https://imgur.com/o7xToCZ)
+1. Grab your icalKey from https://mitstudie.au.dk ![icalKey image](https://i.imgur.com/o7xToCZ.png)
 
 2. Go to your calendar and create a subscription calendar with the following link https://au.omikkel.com/calendar?icalKey=[Your key]
 
