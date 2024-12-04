@@ -48,7 +48,7 @@ def handleRequest(endpoint):
 
     match endpoint:
         case "study-cafe":
-            queries = ["Praktisk"]
+            queries = ["Praktisk", "Vejledning"]
             exclusions = ["Programmeringscafé"]
         case "theory":
             queries = ["Holdundervisning"]
